@@ -4,4 +4,4 @@ This is a respository containing my work for the emerging technologies module, f
 
 
 
-My JupyterLyte instance can be found here: https://dylanwhelan.github.io/EmergingTechnologies2023/
+My JupyterLyte instance can be found here, and the repository's notebooks can be found in the contents folder: https://dylanwhelan.github.io/EmergingTechnologies2023/
